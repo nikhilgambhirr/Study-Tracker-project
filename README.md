@@ -52,7 +52,7 @@ Study TrackerApp (Main Class):-
    Handles menu-driven interface and user input.
    Calls appropriate methods from Study Tracker.
 
- Example Usage (Console Flow):-
+Example Usage (Console Flow):-
  
 -------Marvellous Study Tracker--------------
 1. Insert Study Log
@@ -61,13 +61,16 @@ Study TrackerApp (Main Class):-
 4. Summary By Subject
 5. Export to CSV
 6. Exit
+ 
 input:- 
+
 Enter choice: 1
 Enter Subject: Java Programming
 Enter Duration (hours): 2.5
 Enter Description: Practiced ArrayList and TreeMap Study log added successfully for date: 2025-09-25
 
 output:-
+
 Date, Subject, Duration, Description
 2025-09-25,Java Programming, 2.5, Practiced ArrayList and TreeMap 
 2025-09-25, Database, 1.5, Revised SQL Joins
