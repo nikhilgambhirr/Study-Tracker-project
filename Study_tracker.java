@@ -7,7 +7,7 @@ import java.io.*;
     //  Class Name :       StudyLog
     //  Description :      Holds individual study log record
     //  Author :           Nikhil Kailas Gambhir
-    //  Date :             30/07/2025
+    //  Date :             25/09/2025
     //
     ///////////////////////////////////////////////////////////////////////
 class StudyLog
@@ -98,7 +98,7 @@ class StudyLog
     //  Class Name :       StudyTracker
     //  Description :      Provides functionalities to manage study logs
     //  Author :           Nikhil Kailas Gambhir
-    //  Date :             30/07/2025
+    //  Date :             25/09/2025
     //
     ///////////////////////////////////////////////////////////////////////
 
@@ -330,7 +330,7 @@ class StudyTracker
 //  Class Name :       Study_tracker (Starter Class)
 //  Description :      Entry point of Marvellous Study Tracker Application
 //  Author :           Nikhil Kailas Gambhir
-//  Date :             30/07/2025
+//  Date :             25/09/2025
 //
 ///////////////////////////////////////////////////////////////////////
 
@@ -405,4 +405,5 @@ class Study_tracker    // StudyTrackerStarter
         }while(iChoice != 6);
 
     }
+
 }
