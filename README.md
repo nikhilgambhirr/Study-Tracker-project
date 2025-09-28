@@ -53,6 +53,7 @@ Study TrackerApp (Main Class):-
    Calls appropriate methods from Study Tracker.
 
  Example Usage (Console Flow):-
+ 
 -------Marvellous Study Tracker--------------
 1. Insert Study Log
 2. Display All Logs
